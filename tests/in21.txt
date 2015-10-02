@@ -1,0 +1,10 @@
+
+
+# try all keywords in ALL CAPS
+
+SCHEMES
+FACTS
+RULES
+QUERIES
+
+

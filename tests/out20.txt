@@ -1,0 +1,5 @@
+(ID,"schemes",5)
+(ID,"facts",6)
+(ID,"rules",7)
+(ID,"queries",8)
+Total Tokens = 4

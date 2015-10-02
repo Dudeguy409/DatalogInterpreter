@@ -1,0 +1,6 @@
+(ID,"food",4)
+(ID,"poop",5)
+(ID,"names",6)
+(ID,"RRules",7)
+(ID,"psifQueries",8)
+Total Tokens = 5

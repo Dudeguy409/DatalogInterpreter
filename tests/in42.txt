@@ -1,0 +1,26 @@
+
+
+Schemes:
+  bob(A,B,C,D)
+
+Facts:
+  bob('a','b','c','d').
+  bob('a','a','a','d').
+  bob('a','b','c','d').
+  bob('a','b','a','d').
+  bob('a','a','c','d').
+  bob('b','a','a','d').
+  bob('a','b','c','d').
+  bob('a','b','b','f').
+  bob('a','b','c','d').
+  bob('a','a','a','g').
+  bob('b','b','b','d').
+
+Rules:
+
+Queries:
+  bob('a',K,K,L)?
+  bob(K,K,K,L)?
+  bob(J,K,K,L)?
+  bob(K,N,K,L)?
+

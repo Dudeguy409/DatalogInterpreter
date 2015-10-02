@@ -1,0 +1,9 @@
+(COLON,":",5)
+(COLON_DASH,":-",5)
+(COLON,":",5)
+(LEFT_PAREN,"(",5)
+(RIGHT_PAREN,")",5)
+(STRING,"",5)
+(ID,"and903",5)
+(ID,"fadf",5)
+Total Tokens = 8

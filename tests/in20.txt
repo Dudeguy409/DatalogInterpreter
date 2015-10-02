@@ -1,0 +1,10 @@
+
+
+# try all keywords in lowercase
+
+schemes
+facts
+rules
+queries
+
+

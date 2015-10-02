@@ -1,0 +1,11 @@
+(LEFT_PAREN,"(",5)
+(LEFT_PAREN,"(",5)
+(RIGHT_PAREN,")",5)
+(PERIOD,".",5)
+(COMMA,",",5)
+(COMMA,",",5)
+(COMMA,",",5)
+(STRING,"asdf",5)
+(ID,"abcd",6)
+(ID,"efg",6)
+Total Tokens = 10
